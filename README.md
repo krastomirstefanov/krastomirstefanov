@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Krastomir Stafanov
 - 👀 I’m interested in JavaScript and web development
 - 🌱 I’m currently learning Computer technologies in the engineering at university
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me krstomirs@gmail.com
 
 <!---
