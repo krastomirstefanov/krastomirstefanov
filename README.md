@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Krastomir Stafanov
+- 👋 Hi, I’m Krastomir Stefanov
 - 👀 I’m interested in JavaScript and web development
 - 🌱 I’m currently learning Computer technologies in the engineering at university
 - 📫 How to reach me krstomirs@gmail.com
